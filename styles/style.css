@@ -3,10 +3,13 @@
   font-size: larger;
   font-weight: bolder;
   color: tomato;
-  margin-bottom: 100px;
+  margin-top: 20px;
+  margin-bottom: 60px;
 }
 
 #clock {
+  background-color: navy;
+  color: bisque;
   font-size: 175px;
   width: 900px;
   margin: auto;
