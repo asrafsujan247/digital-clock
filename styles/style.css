@@ -1,0 +1,16 @@
+#header {
+  text-align: center;
+  font-size: larger;
+  font-weight: bolder;
+  color: tomato;
+  margin-bottom: 100px;
+}
+
+#clock {
+  font-size: 175px;
+  width: 900px;
+  margin: auto;
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 20px;
+}
